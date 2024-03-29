@@ -1,1 +1,0 @@
-test releted script
